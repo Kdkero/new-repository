@@ -15,4 +15,4 @@ int main(int argc, char** argv) {
     strcat(cmd, argv[1]);
     systems(cmd);
 }
-
+}
